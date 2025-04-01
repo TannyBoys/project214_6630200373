@@ -1,0 +1,247 @@
+{
+  "student": {
+    "stdid": "6630200373",
+    "name": "ปัณณธร ศรีทองกูล",
+    "yr": "2",
+    "sem": "ปลาย",
+    "faculty": "วิทยาศาสตร์ ศรีราชา",
+    "major": "วิทยาการคอมพิวเตอร์ ศรีราชา",
+    "location": "มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา",
+    "school": "โรงเรียนชลกันยานุกูล",
+    "isActive": false
+  },
+  "course": [
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "03752111",
+      "name": "Information Resources for Research",
+      "credits": 1,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01355108",
+      "name": "English and Culture through Songs",
+      "credits": 3,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01418214",
+      "name": "Practicum in Software Development",
+      "credits": 1,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01418221",
+      "name": "Fundamentals of Database Systems",
+      "credits": 3,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01418222",
+      "name": "Enterprise Information System",
+      "credits": 3,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01418232",
+      "name": "Algorithm Design and Analysis",
+      "credits": 3,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01418236",
+      "name": "Operating Systems",
+      "credits": 3,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2567,
+      "id": "01418261",
+      "name": "Fundamentals of Artificial Intelligence",
+      "credits": 3,
+      "grade": "N"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2567,
+      "id": "01418211",
+      "name": "Software Construction",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2567,
+      "id": "01418233",
+      "name": "Computer Architecture",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2567,
+      "id": "01999012",
+      "name": "Health for Life",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2567,
+      "id": "01418231",
+      "name": "Data Structures and Algorithms",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2567,
+      "id": "01418223",
+      "name": "Data Science and Application Programs",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2567,
+      "id": "01174231",
+      "name": "Introduction to Recreation",
+      "credits": 2,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "01417322",
+      "name": "Basic Linear Algebra",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "01418113",
+      "name": "Computer Programming",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "01418131",
+      "name": "Statistical Programming",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "01418132",
+      "name": "Fundamentals of Computing",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "01999041",
+      "name": "Economics for Better Living",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "03654111",
+      "name": "Aesthetics of Sport",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคปลาย",
+      "yr": 2566,
+      "id": "01175125",
+      "name": "Softball for Health",
+      "credits": 1,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "01999021",
+      "name": "Thai Language for Communication",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "03751112",
+      "name": "Social and Politics",
+      "credits": 3,
+      "grade": "B"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "01418141",
+      "name": "Intellectual Properties and Professional Ethics",
+      "credits": 3,
+      "grade": "B+"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "coidde": "01418111",
+      "name": "Introduction to Computer Science",
+      "credits": 2,
+      "grade": "B"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "01355103",
+      "name": "English for Job Opportunities",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "01418112",
+      "name": "Fundamental Programming Concepts",
+      "credits": 3,
+      "grade": "B+"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "01999111",
+      "name": "Knowledge of the Land",
+      "credits": 2,
+      "grade": "A"
+    },
+    {
+      "semester": "ภาคต้น",
+      "yr": 2566,
+      "id": "01417111",
+      "name": "Calculus I",
+      "credits": 3,
+      "grade": "ฺA"
+    }
+  ]
+}
